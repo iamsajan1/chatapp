@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "chat",
+    "slug": "chat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+         
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sajan123a.chat"
+    },
+    
+    "extra": {
+      "eas": {
+        "projectId": "5552fbaa-cce2-4363-8aab-993589ea549a"
+      }
+    }
+  }
+}
